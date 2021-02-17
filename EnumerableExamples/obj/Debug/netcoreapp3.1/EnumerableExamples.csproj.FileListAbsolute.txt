@@ -1,0 +1,13 @@
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.exe
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.deps.json
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.runtimeconfig.json
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.runtimeconfig.dev.json
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.dll
+C:\TMS\Занятие 8\Samples\EnumerableExamples\bin\Debug\netcoreapp3.1\EnumerableExamples.pdb
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.csprojAssemblyReference.cache
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.AssemblyInfoInputs.cache
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.AssemblyInfo.cs
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.csproj.CoreCompileInputs.cache
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.dll
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.pdb
+C:\TMS\Занятие 8\Samples\EnumerableExamples\obj\Debug\netcoreapp3.1\EnumerableExamples.genruntimeconfig.cache
